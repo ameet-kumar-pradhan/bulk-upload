@@ -68,6 +68,8 @@ const FolderUpload: React.FC = () => {
     setPaused(false);
   };
 
+  //api integration
+
   return (
     <div>
       <label>
